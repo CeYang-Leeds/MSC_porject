@@ -9,7 +9,7 @@
     *  execute_quantum_circuits.ipynb: Execute circuits in each folder and save the results(csv files) in each folder.
     *  collect_and_evaluation.ipynb: Collect results and evaluate them.
 
-## Running the ystem:
+## Running the system:
 * Selece any QSS.
 * Execute the ipynb files in the order of: mutation_and_create -> execute_quantum_circuits -> collect_and_evaluation.
 * To restrat the system, please move the folders which end with number to a new place.
